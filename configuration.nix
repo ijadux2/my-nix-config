@@ -111,6 +111,9 @@ vscodium
 bluez
 kdePackages.plasma-workspace  # This often pulls in necessary Plasma dependencies
 kdePackages.bluedevil
+gcc
+python3
+nodejs
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
