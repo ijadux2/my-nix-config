@@ -5,15 +5,6 @@ Welcome to this quick-start guide for Nix users! This README will help you under
 
 ---
 
-## Table of Contents
-
-- [Introduction](#introduction)  
-- [Bluetooth Support in Nix](#bluetooth-support-in-nix)  
-- [Using Inbuilt Development Packages](#using-inbuilt-development-packages)  
-- [Sample Usage and Tips](#sample-usage-and-tips)  
-- [Demo Data for Testing](#demo-data-for-testing)  
-- [Helpful Resources](#helpful-resources)  
-
 ---
 
 ## Introduction
