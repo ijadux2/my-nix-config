@@ -1,4 +1,4 @@
-# my-nix-config
+# my-nixOS-config
 # Nix User Guide: Built-in Bluetooth Support and Development Packages
 
 Welcome to this quick-start guide for Nix users! This README will help you understand how to leverage NixOS's **inbuilt support for Bluetooth** and information about some essential **inbuilt development packages** you can use for a smooth development experience.
